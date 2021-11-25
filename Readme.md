@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
-* Студент: [Иван Шолохов](https://up.htmlacademy.ru/ecmascript/16/user/1893379).
-* Наставник: `Неизвестно`.
+* Студент: [Иван Шолохов](https://up.htmlacademy.ru/ecmascript/16/user/1893379)
+* Наставник: [Виктор Кан](https://htmlacademy.ru/profile/id241239)
 
 ---
 
